@@ -48,3 +48,4 @@ int main() {
 
 
 # RESULT:
+The program for Pseudorandom Number Generation is executed successfully.
